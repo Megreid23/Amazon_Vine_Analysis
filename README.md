@@ -1,3 +1,11 @@
 # Amazon_Vine_Analysis
 
-[link to Amazon site](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
+## Overview of Vine Analysis 
+
+The purpose of this analysis is to assess the amount of helpful votes that are equal to or more than 50% on a review, whether there are 20 or more votes on a review, vine reviews (or paid reviews) there are in comparison to nonpaid reviews, the total amount of paid reviews that are 5 stars, and the percentage of 5 star reviews for paid and nonpaid reviews.
+
+## Results
+
+![paid_review_stats](paid_review_stats.png)
+
+![unpaid_review_stats](unpaid_review_stats.png)
